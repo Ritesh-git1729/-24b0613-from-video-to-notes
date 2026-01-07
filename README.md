@@ -69,13 +69,13 @@ week_1_transcript_extraction/
 Output Files
 
 transcript_clean.txt
-✔ Clean, readable text
-✔ No timestamps
-✔ Ready for NLP processing
+ Clean, readable text
+ No timestamps
+ Ready for NLP processing
 
 transcript_raw.json
-✔ Raw transcript data
-✔ Preserves metadata
+ Raw transcript data
+ Preserves metadata
 
 Technologies Used
 
